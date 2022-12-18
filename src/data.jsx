@@ -26,6 +26,7 @@ import {
   import Project4 from './assets/img/projects/p4.PNG';
   import Project5 from './assets/img/projects/p5.PNG';
   import Project6 from './assets/img/projects/p6.PNG';
+  import Project7 from './assets/img/projects/p7.PNG';
   
   // skills images
   import SkillImg1 from './assets/img/skills/html5.png';
@@ -82,7 +83,7 @@ import {
     },
     {
       icon: <FiGithub />,
-      href: '',
+      href: 'https://github.com/mubashircoding',
     },
     {
       icon: <FiDribbble />,
@@ -157,6 +158,13 @@ import {
       link : 'https://mubashircoding.github.io/Crypto-Tracker/',
       name: 'project name 6',
       category: 'Full Stack Development',
+    },
+    {
+      id: '7',
+      image: Project7,
+      link : 'https://best-eats-food.netlify.app/',
+      name: 'project name 7',
+      category: 'Front-End Development',
     },
   ];
   
